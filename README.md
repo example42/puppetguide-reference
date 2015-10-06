@@ -1,10 +1,11 @@
-# The Puppet Universal Guide
+# The Puppet Universal Reference
 
 An complete reference of Pupept world, with the info and the link that matter.
 
 ## TODO 
 
 - Puppet reference
+  - paths
   - usage
   - configuration
   - language
@@ -27,4 +28,10 @@ An complete reference of Pupept world, with the info and the link that matter.
 - CA
   - management
   - api
+- Mcollective reference:
+  - usage
+  - configuration
+- R10k
+  - usage
+  - configuration
 
