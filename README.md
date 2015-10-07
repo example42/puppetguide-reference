@@ -34,4 +34,12 @@ An complete reference of Pupept world, with the info and the link that matter.
 - R10k
   - usage
   - configuration
-
+- Foreman
+  - usage
+  - configuration
+  - api
+  - cli
+- Razor
+  - usage
+  - configuration
+ 
